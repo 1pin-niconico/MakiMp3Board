@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,JLCPCB Part #
+0.1u,"C1, C2, C4, C6",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+22u,"C3, C7, C8, C9",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C59461
+1u,C5,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+PRTR5V0U2X,D1,Package_TO_SOT_SMD:SOT-143,C3018477
+D_Schottky,D2,Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C305421
+LED,D11,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C2297
+USB_C_Receptacle_USB2.0,J1,Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV,C2988369
+Q_NMOS_GSD,"Q1, Q2",Package_TO_SOT_SMD:SOT-23,C8545
+4.99k,"R1, R2",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23046
+10k,"R3, R5, R14, R15, R16",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+220,R13,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22962
+1k,"R17, R18",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C21190
+ESP32-WROOM-32E,U1,RF_Module:ESP32-WROOM-32D,C701341
+AZ1117-3.3,U2,Package_TO_SOT_SMD:SOT-223,C108494
+CH340K,U3,Makiboard:CH340K,C968586
